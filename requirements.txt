@@ -1,0 +1,6 @@
+aiogram
+pydantic
+asyncpg
+aiohttp
+requests
+tomli

@@ -1,0 +1,10 @@
+[telegram_bot]
+token="6091374709:AAEaOf8rT2hZ3JYIzOGssTrBmGrGw-cRWdo"
+url="t.me/bde3_bot"
+
+[postgres]
+host = "localhost"
+port = 6666
+user = "bde"
+password = "bde"
+db = 'kolesa'
